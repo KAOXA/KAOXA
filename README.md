@@ -1,9 +1,2 @@
-![](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&logoColor=fff)
-![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=Linux&logoColor=fff)
-
-
-[![Anurag's GitHub stats](https://github-readme-stats-swart-nine-93.vercel.app/api?username=forchannot&show_icons=true&theme=react)](https://github.com/forchannot/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats-swart-nine-93.vercel.app/api/top-langs/?username=forchannot&layout=compact)](https://github.com/forchannot/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiKAOXAanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
